@@ -1,2 +1,1 @@
-Task 4 resolving conflict 
-
+This is from conlict branch
